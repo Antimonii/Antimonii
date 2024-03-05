@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albert Antony</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b9525em2kbovkztenyi4q5jh8amqbrt3nii3lla00zx8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=6c09b9525em2kbovkztenyi4q5jh8amqbrt3nii3lla00zx8&ep=v1_internal_gif_by_id&rid=giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antimonii&label=Profile%20views&color=0e75b6&style=flat" alt="antimonii" /> </p>
 
